@@ -1,0 +1,4 @@
+- npx prisma init : inisialisasi project prisma
+- npx prisma migrate dev : migrasi
+- npx prisma studio dev : melihat tabel fisik prisma
+- npx prisma db push : untuk memberitahu ada perubahan atau penambahan database/table
